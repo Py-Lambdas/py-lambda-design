@@ -9,7 +9,7 @@ To the maximum extent possible, please use the following design guidelines on so
 
 ## Colors
 
-Py-Lambdas incorporates red, dark blue, green, off-white, and pure white throughout its branding. Please use the following colors accordingly:
+Py-Lambdas incorporates red, dark blue, green, off-white, and pure white throughout its branding. Colors should normally be flat. When necessary, use gradients sparingly.
 
 - Red (#BD1A23)
 - Dark Blue (#1D222C)
