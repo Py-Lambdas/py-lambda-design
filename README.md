@@ -1,5 +1,7 @@
 # Py-Lambdas Design Guidelines
 
+To the maximum extent possible, please use the following design guidelines on social media, website, and other outlets utilized by Py-Lambdas. 
+
 ## Logo
 "Python" and the Python logos are trademarks or registered trademarks of the Python Software Foundation. The Py-Lambdas Python User Group makes use of a derived logo with primary colors: (#BD1A23, #1D222C, #FFFFFF).
 
@@ -20,3 +22,8 @@ Py-Lambdas incorporates red, dark blue, green, off-white, and pure white through
 Py-Lambda makes use of the following fonts in its branding:
 
 - [Flux Regular](https://fontsgeek.com/fonts/Flux-Regular)
+
+## Example of use
+
+### Meetup Announcement Banner
+<img src="./logos/meetup_announcement.png" width="800">
