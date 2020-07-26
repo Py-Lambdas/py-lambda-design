@@ -9,7 +9,7 @@ The Python logo is a trademark of the Python Software Foundation. The Py-Lambdas
 
 Py-Lambdas incorporates red, dark blue, green, off-white, and pur white throughout its brandiing. Please use the following colors accordingly:
 
-- Red(#BD1A23)
+- Red (#BD1A23)
 - Dark Blue (#1D222C)
 - Green (#27C497)
 - Off-white (#F8EFE8)
