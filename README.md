@@ -1,7 +1,7 @@
 # Py-Lambdas Design Guidelines
 
 ## Logo
-The Python logo is a trademark of the Python Software Foundation. The Py-Lambdas Python User Group makes use of a derived logo with primary colors: (#BD1A23, #1D222C).
+"Python" and the Python logos are trademarks or registered trademarks of the Python Software Foundation. The Py-Lambdas Python User Group makes use of a derived logo with primary colors: (#BD1A23, #1D222C).
 
 <img src="./logos/circle_logo.svg" width="72">
 
