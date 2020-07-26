@@ -14,7 +14,7 @@ Py-Lambdas incorporates red, dark blue, green, off-white, and pur white througho
 - Green (#27C497)
 - Off-white (#F8EFE8)
 - White (#FFFFFF)
-<img src="./colors/colors.png">
+<img src="./colors/colors.svg" width="300">
 
 ## Fonts
 Py-Lambda makes use of the following fonts in its branding:
