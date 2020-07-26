@@ -23,7 +23,7 @@ Py-Lambda makes use of the following fonts in its branding:
 
 - [Flux Regular](https://fontsgeek.com/fonts/Flux-Regular)
 
-## Example of use
+## Examples
 
 ### Meetup Announcement Banner
 <img src="./logos/meetup_announcement.png" width="800">
