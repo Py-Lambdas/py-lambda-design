@@ -27,3 +27,6 @@ Py-Lambda makes use of the following fonts in its branding:
 
 ### Meetup Announcement Banner
 <img src="./logos/meetup_announcement.png" width="800">
+
+### Meetup Cover Photo
+<img src="./logos/meetup_cover.png" width="800">
